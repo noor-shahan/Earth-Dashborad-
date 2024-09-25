@@ -1,2 +1,2 @@
-# Earth-Dashborad-
+# Earth-Dashborad
 Earth Dashboard Power Bi
